@@ -1,8 +1,9 @@
-def hello():
-    print("Привет!")
-    print("Ne Hello World")
+def mul(a, b):
+    result = a*b
+    return result
+
 
 
 
 if __name__ == '__main__':
-    hello()
+    print(result)
