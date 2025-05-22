@@ -1,6 +1,6 @@
 def hello():
     print("Привет!")
-    print("HelloWorld!")
+    print("Ne Hello World")
 
 
 
